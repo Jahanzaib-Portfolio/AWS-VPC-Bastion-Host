@@ -1,4 +1,4 @@
-(images/image.png)
+![Project Title Screenshot](images/image.png)
 
 # VPC with Bastion Host Project
 
